@@ -1,378 +1,215 @@
 [
   {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Kỹ thuật máy tính",
-    "majorCode": "7480106",
-    "score": 25.25,
-    "methods": ["THPT"]
+    "university": "Đại học Sư phạm - Đại học Đà Nẵng (UED)",
+    "universityCode": "DDS",
+    "major": "Giáo dục Tiểu học",
+    "majorCode": "7140202",
+    "score": 24.88,
+    "methods": [
+      "THPT"
+    ],
+    "combinations": [
+      "C03",
+      "C04"
+    ]
   },
   {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Chương trình tiên tiến Việt-Mỹ ngành Hệ thống Nhúng và IoT",
-    "majorCode": "7480118VM",
-    "score": 23.68,
-    "methods": ["THPT"]
+    "university": "Đại học Sư phạm - Đại học Đà Nẵng (UED)",
+    "universityCode": "DDS",
+    "major": "Tâm lý học",
+    "majorCode": "7310401",
+    "score": 22.7,
+    "methods": [
+      "THPT"
+    ],
+    "combinations": [
+      "C03",
+      "C04"
+    ]
   },
   {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Công nghệ thông tin (Đặc thù - Hợp tác doanh nghiệp)",
-    "majorCode": "7480201",
-    "score": 25.57,
-    "methods": ["THPT"]
+    "university": "Đại học Sư phạm - Đại học Đà Nẵng (UED)",
+    "universityCode": "DDS",
+    "major": "Công tác xã hội",
+    "majorCode": "7760101",
+    "score": 21.35,
+    "methods": [
+      "THPT"
+    ],
+    "combinations": [
+      "C03",
+      "C04"
+    ]
   },
   {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Công nghệ thông tin (ngoại ngữ Nhật)",
-    "majorCode": "7480201A",
-    "score": 22.5,
-    "methods": ["THPT"]
+    "university": "Đại học Sư phạm - Đại học Đà Nẵng (UED)",
+    "universityCode": "DDS",
+    "major": "Quản lý tài nguyên và môi trường",
+    "majorCode": "7850101",
+    "score": 20.0,
+    "methods": [
+      "THPT"
+    ],
+    "combinations": [
+      "C04"
+    ]
   },
   {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Công nghệ thông tin (Đặc thù - Hợp tác doanh nghiệp), chuyên ngành Khoa học dữ liệu và Trí tuệ nhân tạo",
-    "majorCode": "7480201B",
-    "score": 27.2,
-    "methods": ["THPT"]
+    "university": "Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng (UTE)",
+    "universityCode": "DSK",
+    "major": "Công nghệ kỹ thuật xây dựng (Xây dựng dân dụng & Công nghiệp)",
+    "majorCode": "7510103",
+    "score": 17.91,
+    "methods": [
+      "THPT"
+    ],
+    "combinations": [
+      "C04"
+    ]
   },
   {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Công nghệ chế tạo máy",
-    "majorCode": "7510202",
-    "score": 22.5,
-    "methods": ["THPT"]
+    "university": "Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng (UTE)",
+    "universityCode": "DSK",
+    "major": "Công nghệ kỹ thuật giao thông (Xây dựng cầu đường)",
+    "majorCode": "7510104",
+    "score": 17.89,
+    "methods": [
+      "THPT"
+    ],
+    "combinations": [
+      "C04"
+    ]
   },
   {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Quản lý công nghiệp",
-    "majorCode": "7510601",
-    "score": 22.93,
-    "methods": ["THPT"]
+    "university": "Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng (UTE)",
+    "universityCode": "DSK",
+    "major": "Kỹ thuật cơ sở hạ tầng (Xây dựng hạ tầng đô thị)",
+    "majorCode": "7580210",
+    "score": 18.6,
+    "methods": [
+      "THPT"
+    ],
+    "combinations": [
+      "C04"
+    ]
   },
   {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Kỹ thuật Cơ khí, chuyên ngành Cơ khí động lực",
-    "majorCode": "7520103A",
-    "score": 23.65,
-    "methods": ["THPT"]
-  },
-  {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Kỹ thuật Cơ khí, chuyên ngành Cơ khí hàng không",
-    "majorCode": "7520103B",
-    "score": 23.33,
-    "methods": ["THPT"]
-  },
-  {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Kỹ thuật Cơ điện tử",
-    "majorCode": "7520114",
-    "score": 24.93,
-    "methods": ["THPT"]
-  },
-  {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Kỹ thuật nhiệt",
-    "majorCode": "7520115",
+    "university": "Đại học CNTT & TT Việt - Hàn (VKU)",
+    "universityCode": "VKU",
+    "major": "Quản trị kinh doanh",
+    "majorCode": "7340101",
     "score": 22.0,
-    "methods": ["THPT"]
+    "methods": [
+      "THPT"
+    ],
+    "combinations": [
+      "C03"
+    ]
   },
   {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Kỹ thuật nhiệt, chuyên ngành Quản lý Năng lượng",
-    "majorCode": "7520115A",
-    "score": 21.0,
-    "methods": ["THPT"]
-  },
-  {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Kỹ thuật hệ thống công nghiệp",
-    "majorCode": "7520118",
-    "score": 21.27,
-    "methods": ["THPT"]
-  },
-  {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Kỹ thuật ô tô",
-    "majorCode": "7520130",
-    "score": 23.56,
-    "methods": ["THPT"]
-  },
-  {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Kỹ thuật Điện",
-    "majorCode": "7520201",
-    "score": 23.55,
-    "methods": ["THPT"]
-  },
-  {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Kỹ thuật điện tử - viễn thông",
-    "majorCode": "7520207",
-    "score": 24.65,
-    "methods": ["THPT"]
-  },
-  {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Kỹ thuật Điện tử - Viễn thông, chuyên ngành Vi điện tử - Thiết kế vi mạch",
-    "majorCode": "7520207A",
-    "score": 27.0,
-    "methods": ["THPT"]
-  },
-  {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Chương trình tiên tiến Việt - Mỹ ngành Kỹ thuật Điện tử viễn thông",
-    "majorCode": "7520207VM",
-    "score": 23.09,
-    "methods": ["THPT"]
-  },
-  {
-    "university": "Đại học Bách khoa (DUT)",
-    "universityCode": "DDK",
-    "major": "Kỹ thuật Điều khiển và Tự động hóa",
-    "majorCode": "7520216",
-    "score": 26.13,
-    "methods": ["THPT"]
-  },
-  {
-    "university": "Đại học Công nghệ Thông tin và Truyền thông Việt Hàn (VKU)",
+    "university": "Đại học CNTT & TT Việt - Hàn (VKU)",
     "universityCode": "VKU",
-    "major": "Công nghệ truyền thông (cử nhân)",
-    "majorCode": "7320106",
-    "score": 21.0,
-    "methods": ["THPT", "COMBINED"]
+    "major": "Quản trị Logistics và chuỗi cung ứng số",
+    "majorCode": "7340101EL",
+    "score": 23.5,
+    "methods": [
+      "THPT"
+    ],
+    "combinations": [
+      "C03"
+    ]
   },
   {
-    "university": "Đại học Công nghệ Thông tin và Truyền thông Việt Hàn (VKU)",
+    "university": "Đại học CNTT & TT Việt - Hàn (VKU)",
     "universityCode": "VKU",
-    "major": "Chuyên ngành Thiết kế Mỹ thuật số (cử nhân)",
-    "majorCode": "7320106DA",
-    "score": 21.0,
-    "methods": ["THPT", "COMBINED"]
+    "major": "Quản trị dịch vụ du lịch và lữ hành số",
+    "majorCode": "7340101ET",
+    "score": 23.0,
+    "methods": [
+      "THPT"
+    ],
+    "combinations": [
+      "C03"
+    ]
   },
   {
-    "university": "Đại học Công nghệ Thông tin và Truyền thông Việt Hàn (VKU)",
+    "university": "Đại học CNTT & TT Việt - Hàn (VKU)",
     "universityCode": "VKU",
-    "major": "Trí tuệ nhân tạo (kỹ sư)",
-    "majorCode": "7480107",
-    "score": 21.0,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Công nghệ Thông tin và Truyền thông Việt Hàn (VKU)",
-    "universityCode": "VKU",
-    "major": "Chuyên ngành Phân tích dữ liệu (kỹ sư)",
-    "majorCode": "7480107DA",
-    "score": 21.0,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Công nghệ Thông tin và Truyền thông Việt Hàn (VKU)",
-    "universityCode": "VKU",
-    "major": "Công nghệ kỹ thuật máy tính (kỹ sư)",
-    "majorCode": "7480108",
+    "major": "Quản trị dự án CNTT",
+    "majorCode": "7340101IM",
     "score": 20.0,
-    "methods": ["THPT", "COMBINED"]
+    "methods": [
+      "THPT"
+    ],
+    "combinations": [
+      "C03"
+    ]
   },
   {
-    "university": "Đại học Công nghệ Thông tin và Truyền thông Việt Hàn (VKU)",
+    "university": "Đại học CNTT & TT Việt - Hàn (VKU)",
     "universityCode": "VKU",
-    "major": "Chuyên ngành Kỹ thuật phần mềm ô tô (kỹ sư)",
-    "majorCode": "7480108AS",
-    "score": 18.0,
-    "methods": ["THPT", "COMBINED"]
+    "major": "Marketing",
+    "majorCode": "7340115",
+    "score": 23.25,
+    "methods": [
+      "THPT"
+    ],
+    "combinations": [
+      "C03"
+    ]
   },
   {
-    "university": "Đại học Công nghệ Thông tin và Truyền thông Việt Hàn (VKU)",
+    "university": "Đại học CNTT & TT Việt - Hàn (VKU)",
     "universityCode": "VKU",
-    "major": "Công nghệ kỹ thuật máy tính (cử nhân)",
-    "majorCode": "7480108B",
-    "score": 18.0,
-    "methods": ["THPT", "COMBINED"]
+    "major": "Công nghệ tài chính",
+    "majorCode": "7340205",
+    "score": 22.0,
+    "methods": [
+      "THPT"
+    ],
+    "combinations": [
+      "C03"
+    ]
   },
   {
-    "university": "Đại học Công nghệ Thông tin và Truyền thông Việt Hàn (VKU)",
-    "universityCode": "VKU",
-    "major": "Chuyên ngành Thiết kế vi mạch bán dẫn (kỹ sư)",
-    "majorCode": "7480108IC",
-    "score": 24.0,
-    "methods": ["THPT", "COMBINED"]
+    "university": "Viện Nghiên cứu và Đào tạo Việt - Anh - Đại học Đà Nẵng (VNUK)",
+    "universityCode": "DDV",
+    "major": "Kinh doanh Quốc tế",
+    "majorCode": "7340120",
+    "score": 15.25,
+    "methods": [
+      "THPT"
+    ],
+    "combinations": [
+      "A07"
+    ]
   },
   {
-    "university": "Đại học Công nghệ Thông tin và Truyền thông Việt Hàn (VKU)",
-    "universityCode": "VKU",
-    "major": "Công nghệ thông tin (kỹ sư)",
-    "majorCode": "7480201",
-    "score": 20.0,
-    "methods": ["THPT", "COMBINED"]
+    "university": "Đại học Thể dục Thể thao Đà Nẵng (DSU)",
+    "universityCode": "TTD",
+    "major": "Quản lý TDTT",
+    "majorCode": "7810301",
+    "score": 21.5,
+    "methods": [
+      "THPT"
+    ],
+    "combinations": [
+      "C03",
+      "C04"
+    ]
   },
   {
-    "university": "Đại học Công nghệ Thông tin và Truyền thông Việt Hàn (VKU)",
-    "universityCode": "VKU",
-    "major": "Công nghệ thông tin (cử nhân)",
-    "majorCode": "7480201B",
-    "score": 18.5,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Công nghệ Thông tin và Truyền thông Việt Hàn (VKU)",
-    "universityCode": "VKU",
-    "major": "Công nghệ thông tin (cử nhân - Hợp tác doanh nghiệp)",
-    "majorCode": "7480201DT",
-    "score": 18.5,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Công nghệ Thông tin và Truyền thông Việt Hàn (VKU)",
-    "universityCode": "VKU",
-    "major": "Chuyên ngành Công nghệ Game (kỹ sư)",
-    "majorCode": "7480201GT",
-    "score": 19.0,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Công nghệ Thông tin và Truyền thông Việt Hàn (VKU)",
-    "universityCode": "VKU",
-    "major": "An toàn thông tin (kỹ sư)",
-    "majorCode": "7480202",
-    "score": 19.0,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Sư phạm Kỹ thuật (UTE)",
-    "universityCode": "UTE",
-    "major": "Sư phạm Kỹ thuật công nghiệp (chuyên ngành Công nghệ thông tin)",
-    "majorCode": "7140214",
-    "score": 21.44,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Sư phạm Kỹ thuật (UTE)",
-    "universityCode": "UTE",
-    "major": "Công nghệ thông tin",
-    "majorCode": "7480201",
-    "score": 20.75,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Sư phạm Kỹ thuật (UTE)",
-    "universityCode": "UTE",
-    "major": "Công nghệ kỹ thuật cơ khí (chuyên ngành Cơ khí chế tạo)",
-    "majorCode": "7510201",
-    "score": 21.1,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Sư phạm Kỹ thuật (UTE)",
-    "universityCode": "UTE",
-    "major": "Công nghệ kỹ thuật cơ khí (chuyên ngành Thiết kế và mô phỏng số trong cơ khí)",
-    "majorCode": "7510201A",
-    "score": 19.1,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Sư phạm Kỹ thuật (UTE)",
-    "universityCode": "UTE",
-    "major": "Công nghệ kỹ thuật cơ điện tử",
-    "majorCode": "7510203",
-    "score": 21.31,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Sư phạm Kỹ thuật (UTE)",
-    "universityCode": "UTE",
-    "major": "Công nghệ kỹ thuật ô tô",
-    "majorCode": "7510205",
-    "score": 22.01,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Sư phạm Kỹ thuật (UTE)",
-    "universityCode": "UTE",
-    "major": "Công nghệ kỹ thuật ô tô (chuyên ngành Ô tô điện)",
-    "majorCode": "7510205A",
-    "score": 22.35,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Sư phạm Kỹ thuật (UTE)",
-    "universityCode": "UTE",
-    "major": "Công nghệ kỹ thuật ô tô (đào tạo 2 năm đầu tại Kon Tum)",
-    "majorCode": "7510205KT",
-    "score": 18.75,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Sư phạm Kỹ thuật (UTE)",
-    "universityCode": "UTE",
-    "major": "Công nghệ kỹ thuật nhiệt (chuyên ngành Nhiệt - Điện lạnh)",
-    "majorCode": "7510206",
-    "score": 20.2,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Sư phạm Kỹ thuật (UTE)",
-    "universityCode": "UTE",
-    "major": "Công nghệ kỹ thuật điện, điện tử (chuyên ngành Công nghệ kỹ thuật điện tử)",
-    "majorCode": "7510301A",
-    "score": 21.27,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Sư phạm Kỹ thuật (UTE)",
-    "universityCode": "UTE",
-    "major": "Công nghệ kỹ thuật điện, điện tử (chuyên ngành Công nghệ kỹ thuật điện)",
-    "majorCode": "7510301B",
-    "score": 21.07,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Sư phạm Kỹ thuật (UTE)",
-    "universityCode": "UTE",
-    "major": "Công nghệ kỹ thuật điện tử - viễn thông",
-    "majorCode": "7510302",
-    "score": 21.09,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Sư phạm Kỹ thuật (UTE)",
-    "universityCode": "UTE",
-    "major": "Công nghệ kỹ thuật điện tử - viễn thông (chuyên ngành Thiết kế vi mạch bán dẫn)",
-    "majorCode": "7510302A",
-    "score": 21.85,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Sư phạm Kỹ thuật (UTE)",
-    "universityCode": "UTE",
-    "major": "Công nghệ kỹ thuật điều khiển và tự động hóa",
-    "majorCode": "7510303",
-    "score": 22.58,
-    "methods": ["THPT", "COMBINED"]
-  },
-  {
-    "university": "Đại học Sư phạm Kỹ thuật (UTE)",
-    "universityCode": "UTE",
-    "major": "Công nghệ kỹ thuật điều khiển và tự động hóa (đào tạo 2 năm đầu tại Kon Tum)",
-    "majorCode": "7510303KT",
-    "score": 18.25,
-    "methods": ["THPT", "COMBINED"]
+    "university": "Đại học Thể dục Thể thao Đà Nẵng (DSU)",
+    "universityCode": "TTD",
+    "major": "Huấn luyện thể thao",
+    "majorCode": "7810302",
+    "score": 23.93,
+    "methods": [
+      "THPT"
+    ],
+    "combinations": [
+      "C03",
+      "C04"
+    ]
   }
 ]
